@@ -2,7 +2,7 @@
 
 ## Pendahuluan
 
-Pada Hands-On pertama ini, saya melakukan proses pengumpulan dan pembersihan data kursus atau pekerjaan dari sumber data publik. Data hasil *scraping* (atau dalam kasus ini, data publik yang disediakan) kemudian diproses dan dibersihkan melalui beberapa tahapan *preprocessing* teks dasar seperti normalisasi, penghilangan *stopwords*, serta *stemming*. Setelah data diproses hingga bersih, hasil akhirnya disimpan dalam format yang mudah digunakan untuk tahap pemodelan berikutnya (format `.csv` dan `.json`). [cite_start]Data ini akan digunakan sebagai *input* awal *pipeline* sistem rekomendasi di modul selanjutnya. [cite: 15, 16, 17, 18]
+Pada Hands-On pertama ini, saya melakukan proses pengumpulan dan pembersihan data kursus atau pekerjaan dari sumber data publik. Data hasil *scraping* (atau dalam kasus ini, data publik yang disediakan) kemudian diproses dan dibersihkan melalui beberapa tahapan *preprocessing* teks dasar seperti normalisasi, penghilangan *stopwords*, serta *stemming*. Setelah data diproses hingga bersih, hasil akhirnya disimpan dalam format yang mudah digunakan untuk tahap pemodelan berikutnya (format `.csv` dan `.json`). Data ini akan digunakan sebagai *input* awal *pipeline* sistem rekomendasi di modul selanjutnya. 
 
 ## Data yang Digunakan
 
